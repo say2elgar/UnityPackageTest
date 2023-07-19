@@ -1,0 +1,14 @@
+{
+    "author": "Choi Yonggui",
+    "dependencies": {
+    },
+    "description": "Objects Batch Converter",
+    "displayName": "Objects Converter",
+    "keywords": [ "unity" ],
+    "license": "Unlicense",
+    "name": "elgar.unity.util.objects_converter",
+    "repository": "github:say2elgar/ObjectsConverter",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "version": "0.0.1"
+}

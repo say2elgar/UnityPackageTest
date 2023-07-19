@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8651d483cca232a42b03aba73187f50c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - _prefabCaptureCamera: {fileID: 1538638697141488, guid: a86e47f8358f48a44bbebf703b96dc50,
+      type: 2}
+  - _capture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
